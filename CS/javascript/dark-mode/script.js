@@ -1,5 +1,5 @@
-function darkMode() {
-if (document.body.style.backgroundColor === "white") {
+function darkMode() {   
+    if (document.body.style.backgroundColor === "white") {
         document.body.style.backgroundColor = "black";
         document.body.style.color = "white";
 
@@ -7,5 +7,4 @@ if (document.body.style.backgroundColor === "white") {
         document.body.style.backgroundColor = "white";
         document.body.style.color = "black";
     }
-    
-}
+    }
