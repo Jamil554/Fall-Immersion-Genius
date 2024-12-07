@@ -1,0 +1,8 @@
+.jumbotron {
+    background-image: url('Images\ copy/Logo2.jpeg');
+
+    width: max;
+    height: 240px;
+    background-size: cover;
+    color: white;
+}
